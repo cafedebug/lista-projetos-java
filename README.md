@@ -1,4 +1,4 @@
-# APIs Java colaborativa <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> </a> 
+# APIs Java colaborativa <i class="devicon-java-plain-wordmark colored"></i> </a> 
 
 Este é um repositório com listas de APIs em Java colaborativa, para que outras pessoas possam usar como base de aprendizado, ter mais ideias ao criar seus projetos e compartilhar conhecimento.
 
