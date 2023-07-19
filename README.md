@@ -1,5 +1,4 @@
-# APIs Java colaborativa 
-<a https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg> </a>
+# APIs Java colaborativa  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" height="40"/> </a> 
 
 Este é um repositório com listas de APIs em Java colaborativa, para que outras pessoas possam usar como base de aprendizado, ter mais ideias ao criar seus projetos e compartilhar conhecimento.
 
