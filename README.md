@@ -21,7 +21,7 @@ projetos | versão do framework
 
 projetos | Versão
 ---- | ----
-[Reddit Clone](https://github.com/RegisBarros/reddit-clone) | Spring Boot 2.3.4.RELEASE
+[Reddit Clone](https://github.com/RegisBarros/reddit-clone) | Spring Boot 2.3.4
 
 
 
